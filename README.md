@@ -18,8 +18,8 @@ npm (v6 or later) or yarn (v1.22 or later)
 ### Installation
 1. Clone the repository:
 
-git clone https://github.com/your-username/amazon-product-price-app.git
-cd amazon-product-price-app
+git clone https://github.com/KaushalDhakal0/Dashboard-Assesment.git
+cd Dashboard-Assesment
 
 2. Install the dependencies:
 
