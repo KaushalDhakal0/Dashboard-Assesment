@@ -1,51 +1,51 @@
-import React from "react";
-import "./index.css";
-import "./App.css";
+import React from 'react';
+import './index.css';
+import './App.css';
 
 const products = [
   {
-    name: "Gerber Organic 2nd Foods",
-    price: "$6.84",
-    rating: "4.6",
-    brand: "Happy kids",
-    availability: "Yes",
+    name: 'Gerber Organic 2nd Foods',
+    price: '$6.84',
+    rating: '4.6',
+    brand: 'Happy kids',
+    availability: 'Yes',
   },
   {
-    name: "Serenity Kids 6+ Months Baby Food...",
-    price: "$6.55",
-    rating: "4.9",
-    brand: "Serenity",
-    availability: "Yes",
+    name: 'Serenity Kids 6+ Months Baby Food...',
+    price: '$6.55',
+    rating: '4.9',
+    brand: 'Serenity',
+    availability: 'Yes',
   },
   {
-    name: "Gerber Organic 2nd Foods Pouches...",
-    price: "$6.84",
-    rating: "4.6",
-    brand: "Happy kids",
-    availability: "Yes",
+    name: 'Gerber Organic 2nd Foods Pouches...',
+    price: '$6.84',
+    rating: '4.6',
+    brand: 'Happy kids',
+    availability: 'Yes',
   },
   {
-    name: "Serenity Kids 6+ Months Baby Food...",
-    price: "$6.55",
-    rating: "4.9",
-    brand: "Serenity",
-    availability: "Yes",
+    name: 'Serenity Kids 6+ Months Baby Food...',
+    price: '$6.55',
+    rating: '4.9',
+    brand: 'Serenity',
+    availability: 'Yes',
   },
   {
-    name: "Gerber Organic 2nd Foods Pouches...",
-    price: "$6.84",
-    rating: "4.6",
-    brand: "Happy kids",
-    availability: "Yes",
+    name: 'Gerber Organic 2nd Foods Pouches...',
+    price: '$6.84',
+    rating: '4.6',
+    brand: 'Happy kids',
+    availability: 'Yes',
   },
   {
-    name: "Serenity Kids 6+ Months Baby Food...",
-    price: "$6.55",
-    rating: "4.9",
-    brand: "Serenity",
-    availability: "Yes",
+    name: 'Serenity Kids 6+ Months Baby Food...',
+    price: '$6.55',
+    rating: '4.9',
+    brand: 'Serenity',
+    availability: 'Yes',
   },
-]
+];
 function App() {
   return (
     <div className="tw-bg-gray-100 tw-min-h-screen tw-font-sans tw-flex">
